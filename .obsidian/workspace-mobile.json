@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b704dc42c8ac7ad5",
+    "id": "23ad77f386fb0585",
     "type": "split",
     "children": [
       {
-        "id": "304ca2bdc3619c03",
+        "id": "17eaafb76f11737f",
         "type": "tabs",
         "children": [
           {
-            "id": "c8c335d7cd5874f3",
+            "id": "abbfe1de750536a2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8fdb522cd8332f31",
+    "id": "6d6c72f1f7f365b4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "55a9fc875948d8d7",
+        "id": "b6dab4be63fb00f7",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "ba0ca4cd46025210",
+        "id": "04274d35a7af0e3d",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -56,7 +56,7 @@
         }
       },
       {
-        "id": "7829a466d5fcd550",
+        "id": "d461922eb1569f03",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -69,7 +69,7 @@
         }
       },
       {
-        "id": "01cf314efa4c1875",
+        "id": "072817bb865f52ba",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -82,15 +82,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "d1acf0baac787906",
+    "id": "f10ec0f538b37b14",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "726e10f9d6a3456e",
+        "id": "00538ac6cdb883a4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "2.Notes/1.learn to commit over https.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,11 +105,12 @@
         }
       },
       {
-        "id": "ed9b891189f51253",
+        "id": "8c2e509bc01a33cb",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "2.Notes/1.learn to commit over https.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -117,17 +119,19 @@
         }
       },
       {
-        "id": "c07d61f282df2553",
+        "id": "b933a1991357a74a",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "2.Notes/1.learn to commit over https.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
       },
       {
-        "id": "84fe126770ae41e2",
+        "id": "76aec4db433571ee",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -150,12 +154,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8c335d7cd5874f3",
+  "active": "76aec4db433571ee",
   "lastOpenFiles": [
-    "Templates",
-    "Daily Notes",
-    "Assets",
-    "Notes",
-    "Canvas"
+    "2.Notes/1.learn to commit over https.md",
+    "3.Daily Notes",
+    "99.etc/Templates",
+    "99.etc/Assets",
+    "99.etc",
+    "2.Notes",
+    "1.Canvas"
   ]
 }
