@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "17eaafb76f11737f",
+        "id": "658bf8fe77259d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "abbfe1de750536a2",
+            "id": "1e6654beeea03c91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "1.Canvas/1..Cloudflare Route.canvas",
+                "viewState": {
+                  "x": 224.69867651519917,
+                  "y": -4.8049229685128125,
+                  "zoom": -1.1097901218156503
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "1..Cloudflare Route"
             }
           }
         ]
@@ -154,8 +161,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "76aec4db433571ee",
+  "active": "1e6654beeea03c91",
   "lastOpenFiles": [
+    "1.Canvas/1..Cloudflare Route.canvas",
     "2.Notes/1.learn to commit over https.md",
     "3.Daily Notes",
     "99.etc/Templates",
