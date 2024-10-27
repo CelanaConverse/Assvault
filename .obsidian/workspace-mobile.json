@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7bc846502a0ff435",
+        "id": "3e4e0f0bf20d0264",
         "type": "tabs",
         "children": [
           {
-            "id": "934917a301d203bf",
+            "id": "3939584cdc5897e0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1.Canvas/1.Cloudflare Route.canvas",
-                "viewState": {
-                  "x": 145.50911962107187,
-                  "y": -123.59017322338423,
-                  "zoom": -0.04314232314899386
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "1.Cloudflare Route"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,11 +154,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "934917a301d203bf",
+  "active": "3939584cdc5897e0",
   "lastOpenFiles": [
+    "1.Canvas/1.Cloudflare Route.canvas",
     "3.Daily Notes/2024-10-26.md",
     "99.etc/Templates/Empty.md",
-    "1.Canvas/1.Cloudflare Route.canvas",
     "2.Notes/1.Brangkas/1.Dreamgen.md",
     "99.etc/Assets/Empty.md",
     "2.Notes/1.Brangkas",
