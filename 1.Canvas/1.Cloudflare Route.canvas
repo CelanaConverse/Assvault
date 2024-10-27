@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"b9246835a15be17a","type":"text","text":"Server 03\n192.168.0.3","x":-8,"y":-390,"width":168,"height":70},
+		{"id":"1d8faec36e42669c","type":"text","text":"Portainer\nHttp: 9000\nHttps :9443\nTcp :8000","x":180,"y":-220,"width":180,"height":100},
+		{"id":"5710292af9f8cebd","type":"text","text":"DB MySQL \nPort: 3306\nUser: root\nPass: d3c4Tr0n","x":181,"y":-100,"width":189,"height":120},
+		{"id":"559aea813fc6ae16","type":"text","text":"Cloudflare tunnel","x":-8,"y":-780,"width":250,"height":60},
+		{"id":"1f4f1686b77f0947","type":"text","text":"Portainer.magggis.my.id","x":-8,"y":-880,"width":250,"height":60},
+		{"id":"f00fcf5e3bf63e71","type":"text","text":"Adminer.magggis.my.id","x":-8,"y":-960,"width":250,"height":60},
+		{"id":"557841400800d902","type":"text","text":"Local DNS server\n- Adminer\n- Portainer\n- Trafik\n- nginx proxy manager\n","x":-240,"y":-290,"width":198,"height":255},
+		{"id":"252652b88660b034","type":"text","text":"PostgreSQL \nPort: 5432\nUser: postgres\nPass: d3c4Tr0n ","x":181,"y":40,"width":190,"height":100},
+		{"id":"2096cbc511cf967e","x":480,"y":-80,"width":219,"height":80,"type":"text","text":"Database wp-rest-api\nUser wp-rest-api\nPass pass123\n"},
+		{"id":"336996bbf5f6f920","x":-232,"y":10,"width":190,"height":60,"type":"text","text":"PhpMyAdmin :8080"},
+		{"id":"8c26adef26374747","x":-232,"y":80,"width":190,"height":60,"type":"text","text":"Adminer :8080"},
+		{"id":"9f85d5071bbb3553","x":181,"y":160,"width":190,"height":133,"type":"text","text":"WP rest api\nUser admin\nPass d3c4Tr0n \nPort 8081"},
+		{"id":"d991f15361bb3a9e","x":181,"y":320,"width":190,"height":120,"type":"text","text":"Strapi\nUser admin\nPass d3c4Tr0n \nPort 8082"},
+		{"id":"dd57b183c7a949dd","x":483,"y":45,"width":213,"height":90,"type":"text","text":"Database strapi-next\nUser strapi-next\nPass pass123"},
+		{"id":"7c9d33e3981bca4a","type":"text","text":"CloudflareD tunnel","x":242,"y":-600,"width":189,"height":60}
+	],
+	"edges":[
+		{"id":"65242ec09a5abca0","fromNode":"b9246835a15be17a","fromSide":"bottom","toNode":"1d8faec36e42669c","toSide":"left"},
+		{"id":"4fb116c6435c1e54","fromNode":"b9246835a15be17a","fromSide":"bottom","toNode":"5710292af9f8cebd","toSide":"left"},
+		{"id":"ca34de71bdbc08c5","fromNode":"b9246835a15be17a","fromSide":"bottom","toNode":"252652b88660b034","toSide":"left"},
+		{"id":"30e5f37fd304ca90","fromNode":"f00fcf5e3bf63e71","fromSide":"left","toNode":"559aea813fc6ae16","toSide":"left"},
+		{"id":"464a0ad725894dd1","fromNode":"1f4f1686b77f0947","fromSide":"left","toNode":"559aea813fc6ae16","toSide":"left"},
+		{"id":"efb159d0ea15ef20","fromNode":"559aea813fc6ae16","fromSide":"right","toNode":"7c9d33e3981bca4a","toSide":"top"},
+		{"id":"7d844acbd5ab4005","fromNode":"557841400800d902","fromSide":"right","toNode":"b9246835a15be17a","toSide":"left"},
+		{"id":"53e845f7a6a4466b","fromNode":"b9246835a15be17a","fromSide":"bottom","toNode":"9f85d5071bbb3553","toSide":"left"},
+		{"id":"bc41d5d21e0c3bd4","fromNode":"5710292af9f8cebd","fromSide":"right","toNode":"2096cbc511cf967e","toSide":"left"},
+		{"id":"fb4e1cb852818e47","fromNode":"b9246835a15be17a","fromSide":"bottom","toNode":"d991f15361bb3a9e","toSide":"left"},
+		{"id":"73186378b4736bc7","fromNode":"252652b88660b034","fromSide":"right","toNode":"dd57b183c7a949dd","toSide":"left"},
+		{"id":"9d09055122303c50","fromNode":"b9246835a15be17a","fromSide":"bottom","toNode":"336996bbf5f6f920","toSide":"right"},
+		{"id":"1dbb406ec7702373","fromNode":"b9246835a15be17a","fromSide":"bottom","toNode":"8c26adef26374747","toSide":"right"},
+		{"id":"834010b9921ffc0b","fromNode":"7c9d33e3981bca4a","fromSide":"left","toNode":"b9246835a15be17a","toSide":"top"}
+	]
+}
