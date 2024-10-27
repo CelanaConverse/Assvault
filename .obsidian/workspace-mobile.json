@@ -4,42 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "658bf8fe77259d7b",
+        "id": "7bc846502a0ff435",
         "type": "tabs",
         "children": [
           {
-            "id": "1e6654beeea03c91",
+            "id": "934917a301d203bf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1.Canvas/1..Cloudflare Route.canvas",
-                "viewState": {
-                  "x": 224.69867651519917,
-                  "y": -4.8049229685128125,
-                  "zoom": -1.1097901218156503
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "1..Cloudflare Route"
-            }
-          },
-          {
-            "id": "397ee0b5b202687b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Notes/1.Dreamgen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.Dreamgen"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,10 +154,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "397ee0b5b202687b",
+  "active": "934917a301d203bf",
   "lastOpenFiles": [
+    "3.Daily Notes/2024-10-26.md",
+    "99.etc/Templates/Empty.md",
     "1.Canvas/1..Cloudflare Route.canvas",
-    "2.Notes/1.Dreamgen.md",
+    "2.Notes/1.Brangkas/1.Dreamgen.md",
+    "99.etc/Assets/Empty.md",
     "2.Notes/1.Brangkas",
     "2.Notes",
     "2.Notes/1.learn to commit over https.md",
