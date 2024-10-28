@@ -15,9 +15,9 @@
               "state": {
                 "file": "1.Canvas/1.Cloudflare Route.canvas",
                 "viewState": {
-                  "x": 92.14196862291216,
-                  "y": 38.077502091858015,
-                  "zoom": -0.06355681923525147
+                  "x": -15.658372021204855,
+                  "y": -167.3007053305705,
+                  "zoom": 1
                 }
               }
             }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6461b98ebf24cb06",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Notes/1.Brangkas/1.Dreamgen.md",
+                "file": "1.Canvas/1.Cloudflare Route.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Notes/1.Brangkas/1.Dreamgen.md",
+                "file": "1.Canvas/1.Cloudflare Route.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Notes/1.Brangkas/1.Dreamgen.md"
+                "file": "1.Canvas/1.Cloudflare Route.canvas"
               }
             }
           },
@@ -177,9 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca2b12cd39ed5908",
+  "active": "93678f7654a34785",
   "lastOpenFiles": [
-    "1.Canvas/1.Cloudflare Route.canvas",
-    "2.Notes/1.Brangkas/1.Dreamgen.md"
+    "2.Notes/1.Brangkas/1.Dreamgen.md",
+    "1.Canvas/1.Cloudflare Route.canvas"
   ]
 }
